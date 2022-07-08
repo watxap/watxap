@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @watxap
 - 🏙️ From Buenos Aires, Argentina.
-- ✨ I’m want to create some cool stuff.
-- 🧉 Currently learning HTML, CSS and JS.
+- ✨ I'd like to do some cool stuff in HTML, CSS and JS.
+- 🧉 Currently learning React, NodeJS and Express.
 - 🔥 freeCodeCamp/ IT Master Academy
 
 <!---
