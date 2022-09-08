@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @watxap
-- 🏙️ From Buenos Aires, Argentina
-- ✨ I'd like to do some cool stuff in HTML, CSS and JS
 - 🌱 UX/UI designer wannabe
+- 🏙️ From Buenos Aires, Argentina
+- 🔥 IT Master Academy/ freeCodeCamp
+- ✨ Making cool stuff in HTML, CSS and JS 
 - 🧉 Currently learning React, NodeJS and Express
-- 🔥 IT Master Academy/ freeCodeCamp 
+
 
 <!---
 watxap/watxap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
