@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @watxap
-- 🌱 UX/UI designer wannabe
 - 🏙️ From Buenos Aires, Argentina
-- 🔥 #ArgentinaPrograma/ IT Master Academy/ freeCodeCamp
-- ✨ Making cool stuff in HTML, CSS and JS 
+- 🌱 #ArgentinaPrograma/ IT Master Academy/ freeCodeCamp
+- ✨ Making cool stuff in HTML, CSS and JS (UX/UI designer wannabe)
 - 🧉 Currently learning React, NodeJS and Express
 
 
