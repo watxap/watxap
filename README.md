@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @watxap
+- 👋 Hey, I’m @watxap
 - 🏙️ From Buenos Aires, Argentina
 - 🌱 #ArgentinaPrograma/ IT Master Academy/ freeCodeCamp
 - ✨ Making cool stuff in HTML, CSS and JS (UX/UI designer wannabe)
