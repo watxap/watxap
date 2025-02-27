@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @watxap
 - 🏙️ From Buenos Aires, Argentina
-- 🌱 #ArgentinaPrograma/ IT Master Academy/ freeCodeCamp
+- 🌱 #ArgentinaPrograma/ IT Master Academy/ #CodoACodo
 - ✨ Making stuff in HTML, CSS and JS
 - 🧉 Currently learning React, Node and ThreeJS
 
