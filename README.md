@@ -1,7 +1,6 @@
 - 👋 Hey, I’m @watxap
-- 🏙️ From Buenos Aires, Argentina
-- 🌱 #ArgentinaPrograma/ Codemiadot / #CodoACodo
-- ✨ Web dev 
+- 🏙️ Web Dev From Buenos Aires, Argentina
+- 🌱 Plataforma5 / #ArgentinaPrograma/ Codemiadot / #CodoACodo
 
 
 <!---
