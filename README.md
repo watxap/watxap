@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @watxap
-- 🏙️ Just another Web Dev From Buenos Aires, Argentina
+- 🧉 Just another web dev From Buenos Aires, Argentina
 - 🌱 Plataforma5 / #ArgentinaPrograma/ Codemiadot / #CodoACodo
 
 
