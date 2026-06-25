@@ -1,5 +1,5 @@
-- 👋 Hey, I’m @watxap
-- 🧉 Just another web dev From Buenos Aires, Argentina
+- 👋 Hey, I’m @watxap.
+- 🧉 Another web dev From Buenos Aires, Argentina. UI Motion Design enthusiast.
 - 🌱 Plataforma5 / #ArgentinaPrograma/ Codemiadot / #CodoACodo
 
 
