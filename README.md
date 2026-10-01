@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @watxap
-- 🧉 Web dev From Buenos Aires, Argentina. UI Motion Design is my passion
-- 🌱 Plataforma5 / #ArgentinaPrograma / Codemiadot / #CodoACodo
-- 🛸 Part of garra404.com.ar 
+- 🧉 Web dev From Buenos Aires, Argentina
+- 🌱 Plataforma5 / #ArgentinaPrograma / Talento Tech / #CodoACodo / Codemiadot
+- 🛸 1/3 of garra404.com.ar 
 
 
 <!---
